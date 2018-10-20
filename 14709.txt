@@ -19,7 +19,7 @@ Author: Various
 
 Release Date: January 17, 2005  [eBook #14709]
 
-Language: en
+Language: English
 
 Character set encoding: ISO-646-US (US-ASCII)
 
